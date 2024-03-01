@@ -48,6 +48,12 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+nav:
+  - Home: 'index.md'
+  - Learning Path: 
+    - 'learning/index.md'
+    - Basic Bootcamp (32H): 
+      - 'learning/basic_bootcamp/basics.md'
 
 extra:
   analytics:
