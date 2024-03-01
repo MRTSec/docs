@@ -7,6 +7,8 @@ copyright: Copyright &copy; 2024 MRTSec
 
 theme:
   name: material
+  icon:
+    annotation: material/plus-circle
   custom_dir: overrides
   palette:
     # Palette toggle for light mode
