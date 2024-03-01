@@ -1,6 +1,33 @@
+# Project information
 site_name: MRTSec Docs
+site_author: MRTSec
+
+# Copyright
+copyright: Copyright &copy; 2024 MRTSec
+
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: teal
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: teal
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - navigation.footer
+    - navigation.sections
+    - navigation.tabs
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -21,3 +48,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+
+extra:
+  analytics:
+    provider: umami
