@@ -7,9 +7,15 @@ In the opening chapter of Patrick Collins course, we delve into the transformati
 
 **Web3** marks the dawn of a new internet era, a paradigm shift towards **decentralized networks**. This revolutionary concept aims to empower users with sovereignty over their data, identity, and transactions, moving away from the traditional centralized internet services to a more open, blockchain-based framework. This shift paves the way for direct, intermediary-free interactions between individuals.
 
-Drawing an intriguing comparison, **Bitcoin** is portrayed as the digital equivalent of gold. This analogy serves to introduce blockchain technology and Bitcoin, its first and most notable application. Much like gold, Bitcoin is valued for its scarcity, decentralization, and role as a digital store of value, free from the control of any single entity.
+Drawing an intriguing comparison, **Bitcoin**(1) is portrayed as the digital equivalent of gold. This analogy serves to introduce blockchain technology and Bitcoin, its first and most notable application. Much like gold, Bitcoin is valued for its scarcity, decentralization, and role as a digital store of value, free from the control of any single entity.
+{ .annotate }
 
-The narrative then transitions to **Ethereum**, a trailblazing blockchain platform that builds upon the basic principles of blockchain, much like Bitcoin, but introduces the innovative concept of **smart contracts**. These are contracts that are automatically executed, with the terms directly embedded in code, facilitating transactions and agreements without the need for trust.
+1.  :ninja: The creator of Bitcoin is Satoshi Nakamoto, his identity is unknown
+
+The narrative then transitions to **Ethereum** (1), a trailblazing blockchain platform that builds upon the basic principles of blockchain, much like Bitcoin, but introduces the innovative concept of **smart contracts**. These are contracts that are automatically executed, with the terms directly embedded in code, facilitating transactions and agreements without the need for trust.
+{ .annotate }
+
+1.  :man_technologist: Ethereum's creator is Vitalik Butherin
 
 Ethereum is celebrated for being the most popular platform for deploying smart contracts, thanks in part to **Solidity**, its dedicated programming language. This segment underscores Ethereum's significant influence on the development and proliferation of decentralized applications (dApps).
 
@@ -21,4 +27,11 @@ The discourse then introduces the idea of hybrid smart contracts, which marry on
 Finally, smart contracts are eloquently described as "unbreakable promises." This characterization emphasizes their immutable and self-sufficient nature, ensuring that once a smart contract is deployed, it will operate exactly as coded, immune to downtime, censorship, fraud, or interference.
 
 This chapter not only sets the foundation for understanding smart contracts but also paints a vivid picture of their indispensable role in fostering a decentralized, trustless digital ecosystem through blockchain technology.
+
+!!! abstract
+
+    It is possible and preferable to learn more about [Bitcoin](https://bitcoin.org/bitcoin.pdf) and [Ethereum](https://ethereum.org/en/whitepaper/) by reading their respective whitepapers.
+
+    Additional research is also recommended to fully understand the role of [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp), [Smart Contract](https://chain.link/education/smart-contracts), [Hybrid Smart Contract](https://chain.link/education-hub/hybrid-smart-contracts) & [Oracle](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72) concept.
+
 
