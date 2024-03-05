@@ -3,6 +3,15 @@ title: 'Lesson 1: Blockchain Basics'
 icon: material/flag-checkered
 ---
 
+### Basics
+
+!!! tip
+
+    The first thing you need to invest is your time. Since the publication of the course, many things have evolved or appeared, this first chapter is much more important than it seems, take time, several days if necessary, to discover this ecosystem and things that are not mentioned in the video such as [Starknet](https://www.starknet.io/en), Zero-knowledge proof, Account Abstraction, etc.
+
+!!! warning
+    In case you also intend to invest, take the time to understand the current rules associated with your Country regarding cryptocurrency taxation
+
 In the opening chapter of Patrick Collins course, we delve into the transformative world of smart contracts and their pivotal role in the **blockchain** landscape. This section, guides us through the evolution and potential of blockchain technology and its applications. Here's a refined overview of the key discussions:
 
 **Web3** marks the dawn of a new internet era, a paradigm shift towards **decentralized networks**. This revolutionary concept aims to empower users with sovereignty over their data, identity, and transactions, moving away from the traditional centralized internet services to a more open, blockchain-based framework. This shift paves the way for direct, intermediary-free interactions between individuals.
@@ -35,3 +44,21 @@ This chapter not only sets the foundation for understanding smart contracts but 
     Additional research is also recommended to fully understand the role of [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp), [Smart Contract](https://chain.link/education/smart-contracts), [Hybrid Smart Contract](https://chain.link/education-hub/hybrid-smart-contracts) & [Oracle](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72) concept.
 
 
+### The purpose of Smart Contract
+
+Smart contracts, is like the age-old concept of a "pinky swear", built on the foundation of trust and agreement. However, unlike the simple and purely honor-based promise represented by the intertwining of pinky fingers, smart contracts elevate the concept into the digital realm with a robust, secure, and enforceable framework. This leap is made possible through blockchain technology, which serves as the impartial digital ledger that records, verifies, and executes the terms of a contract automatically, without the need for intermediaries.
+
+
+
+<figure markdown="span">
+  ![](https://zupimages.net/up/24/10/dlcv.png)
+  <figcaption>https://site.ieee.org/sb-ritb/why-are-smart-contracts-so-important/</figcaption>
+</figure>
+
+At their core, smart contracts function similarly to traditional contracts by encoding the terms of an agreement. However, the key distinction lies in their execution. Imagine two children agreeing to a pinky swear, where one promises to exchange their toy car for the other's action figure the following day. In the traditional sense, this agreement relies heavily on trust and personal integrity. Should one party renege on their promise, the aggrieved party's recourse is limited, primarily to social sanctions or seeking adult intervention.
+
+Smart contracts revolutionize this concept by embedding the agreement into code. Once the contract's conditions are met, such as the confirmation of the toy car's delivery in our example, the smart contract automatically executes the agreed-upon action, in this case, transferring ownership of the action figure. This automation not only minimizes the risk of breach but also eliminates the need for a third-party enforcer, thus reducing potential conflicts and costs associated with dispute resolution.
+
+The immutable nature of blockchain technology ensures that once a smart contract is deployed, its terms cannot be altered, much like the unbreakable vow of a pinky swear. However, unlike the latter, which relies on personal honor, the trust in smart contracts is placed in the technology's capability to impartially and reliably execute the agreement. This technological trust is underpinned by the decentralized and transparent nature of the blockchain, where each transaction is verified by a network of computers and recorded across multiple copies of the ledger, making fraud or interference exceedingly difficult.
+
+The evolution from simple, trust-based agreements like the pinky swear to complex, code-enforced smart contracts signifies a monumental shift in how agreements are made and upheld. While the essence of making a promise remains unchanged, the mechanisms to ensure its fulfillment have been dramatically enhanced. This advancement not only streamlines transactions of all kinds but also introduces a new era of trust and security in agreements, moving beyond the limitations of human integrity to the reliability of code.
